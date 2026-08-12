@@ -7,7 +7,7 @@ This is my first data analytics project, where I worked with a sales dataset usi
 - Power BI
 - pgAdmin
 
-  ## Analysis
+## Analysis
 In this project, I explored:
 - Sales performance by state
 - Sales trends over time
@@ -16,7 +16,7 @@ In this project, I explored:
 - Profit by category
 - Sales by sub-category
 
-  ##Dashboard
+## Dashboard
 ![Sales Analytics Dashboard](Sales%20dashboard.png)
 
 ## What I Learned
