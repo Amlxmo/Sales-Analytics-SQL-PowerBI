@@ -1,3 +1,4 @@
+# Sales Analytics – SQL & Power BI
 This is my first data analytics project, where I worked with a sales dataset using PostgreSQL and SQL to explore the data and answer different business questions. I then used Power BI to visualize the results and create a sales dashboard.
 
 ## Tools Used
