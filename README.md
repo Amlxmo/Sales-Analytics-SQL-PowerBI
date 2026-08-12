@@ -17,7 +17,7 @@ In this project, I explored:
 - Sales by sub-category
 
 ## Dashboard
-![Sales Analytics Dashboard](Sales%20dashboard.png)
+
 
 ## What I Learned
 This project helped me practice SQL aggregation, grouping and filtering, while also learning how to turn query results into clear visualizations in Power BI.
