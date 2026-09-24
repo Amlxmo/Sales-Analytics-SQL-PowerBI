@@ -26,12 +26,12 @@ Overview of revenue, profit, quantity sold, and profit margin over time.
 ### 2. Product & Seasonal Insight
 Shows profit margin by sub-category and compares August vs. December 2022 to highlight how higher sales do not always lead to higher profit.
 
-![Product & Seasonal Insight](product-seasonal-insight.png)
+![Product & Seasonal Insight](product-seasonal.png)
 
 ### 3. Customer & Regional Insight
 Shows where sales are strongest geographically and highlights top-performing customers.
 
-![Customer & Regional Insight](customer-regional-insight.png)
+![Customer & Regional Insight](customer-regional.png)
 
 ### 4. Additional Analysis
 Extra visual analysis of units sold over time, units sold by category, profit by category, and units sold by sub-category.
